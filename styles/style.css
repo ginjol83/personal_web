@@ -5,19 +5,12 @@ body { background-color: white; }
 
 /*cabecera*/
 header { background-color: white; margin: 1rem;}
-header h1 { text-align: center; color: navy; padding: 0.5em; font-size: 1.5em; }
-header h2 { text-align: center; color: #663366; padding: 0.5em; font-size: 1.2em; }
 header img{ display:block; margin:auto; }
-
 
 /*navegador*/
 div {margin: 1rem; padding: 1rem; text-align: center;}
-div a:link, div a:visited { text-decoration: none; color: #f1f16c; background-color: white; margin: 0.3em; }
-div a:hover, div a:active { text-decoration: none; color: #9bf5ff; background-color: #543683; margin: 0.3em; }
-
 
 /*pie de página: footer*/
 footer { clear: both; background-color: #ccffff; bottom:5px;position: absolute;width: 100%;}
-footer h1 { text-align: center; font-size: 1.4em; color: navy; padding: 0.7em; }
 footer h2 { text-align: center; font-size: 1em; padding: 0.4em; }
 footer a { text-decoration: none; color: green; }
